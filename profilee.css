@@ -1,0 +1,148 @@
+.logo{
+	height:60px;
+	width: 60px;
+	left:20px;
+	top:25px;
+	position: absolute;
+	border-radius: 40px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.coride{
+	width: 169px; 
+	height: 43px; 
+	left: 98px; 
+	top: 40px; 
+	position: absolute; 
+	font-size: 26px; 
+	font-family: Roboto Serif; 
+	font-weight: 700; 
+	word-wrap: break-word;
+    color: black;
+}
+.home{
+	width: 169px; 
+	height: 43px; 
+	left: 470px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+
+}
+.aboutus{
+	width: 169px; 
+	height: 43px; 
+	left: 656px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+}
+.service{
+	width: 169px; 
+	height: 43px; 
+	left: 839px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+}
+.profile{
+	width: 169px; 
+	height: 43px; 
+	left: 1023px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+}
+.login{
+	width: 200px; 
+	height: 43px;
+	left: 1301px; 
+	top: 30px;
+	background-color:#FF5737;
+	color: white; 
+	font-size: 22px; 
+	font-family: Roboto Serif; 
+	font-weight: 600; 
+	word-wrap: break-word;
+	position: absolute;
+	border-radius: 20px;
+	border-color: white;
+}
+.carpic{
+	width: 200px; 
+	height: 150px; 
+	border-radius: 30px; 
+	left: 202px;
+	top:144px;
+	position: absolute;
+	
+}
+.profilepic{
+	width: 200px;
+    height: 190.7px;
+    left: 1087px;
+    top: 120px;
+    position: absolute;
+    border-radius: 119.19px;
+}
+body{
+  background-image: url("Profileimgback.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.vehicledet{
+	width:300px;
+	height:320px ;
+	left: 100px;
+	top: 300px;
+	position: absolute;
+	padding-top: 30px;
+	border-radius: 20px;
+}
+p{
+	color: white;
+    font-size: 26px;
+    font-family: Roboto Serif;
+    font-weight: 400;
+    word-wrap: break-word;    
+}
+.personaldet{
+	left: 1027px;
+    top: 300px;
+    position: absolute;
+
+}
+
+

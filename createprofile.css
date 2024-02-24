@@ -1,0 +1,180 @@
+.logo{
+	height:40px;
+	width: 40px;
+	left:90;
+	top:25px;
+	position: absolute;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.coride{
+	width: 169px; 
+	height: 43px; 
+	left: 98px; 
+	top: 40px; 
+	position: absolute; 
+	font-size: 26px; 
+	font-family: Roboto Serif; 
+	font-weight: 700; 
+	word-wrap: break-word;
+    color: black;
+}
+.home{
+	width: 169px; 
+	height: 43px; 
+	left: 470px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+
+}
+.aboutus{
+	width: 169px; 
+	height: 43px; 
+	left: 656px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+}
+.service{
+	width: 169px; 
+	height: 43px; 
+	left: 839px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+}
+.profile{
+	width: 169px; 
+	height: 43px; 
+	left: 1023px; 
+	top: 30px; 
+	position: absolute; 
+	color: white; 
+	font-size: 24px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	word-wrap: break-word;
+	border-radius: 20px;
+	background-color: #120A29;
+	border-color: white;
+}
+.login{
+	width: 200px; 
+	height: 43px;
+	left: 1301px; 
+	top: 30px;
+	background-color:#FF5737;
+	color: white; 
+	font-size: 22px; 
+	font-family: Roboto Serif; 
+	font-weight: 600; 
+	word-wrap: break-word;
+	position: absolute;
+	border-radius: 20px;
+	border-color: white;
+}
+.personaldetails{
+	width: 264px; 
+	height: 55px; 
+	left: 54px; 
+	top: 420px; 
+	position: absolute; 
+	color: black; 
+	font-size: 26px; 
+	font-family: Roboto Serif; 
+	font-style: italic; 
+	font-weight: 400; 
+	word-wrap: break-word;
+}
+
+.button
+{
+	background-color: #120A29;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 30%,
+    #120A29 30%,
+    #120A29 100%
+  );
+
+}
+.logo{
+	height:60px;
+	width: 60px;
+	left:20px;
+	top:25px;
+	position: absolute;
+	border-radius: 40px;
+}
+.profilepic{
+	width: 193px; 
+	height: 183px; 
+	left: 100px; 
+	top: 170px; 
+	position: absolute;
+	border-radius: 100px;
+}
+
+.vehicle{
+	padding-left: 107px; 
+	padding-right: 107px; 
+	padding-top: 46px; 
+	padding-bottom: 46px; 
+	left: 648px; 
+	top: 170px; 
+	position: absolute; 
+	background: #120A29; 
+	box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.50); 
+	border-radius: 30px; 
+	overflow: hidden; 
+	border: 1px white solid; 
+	flex-direction: column; 
+	justify-content: flex-start; 
+	align-items: flex-start; 
+	gap: 20px; 
+	display: inline-flex;
+ }
+ .updateprofile{
+	left: 1059px; 
+	top: 640px; 
+	position: absolute; 
+	color: white; 
+	font-size: 22px; 
+	font-family: Roboto Serif; 
+	font-weight: 400; 
+	letter-spacing: 1.32px; 
+	word-wrap: break-word;
+	background-color: #FF5737;
+	border-radius: 20px;
+	padding: 10px;
+}

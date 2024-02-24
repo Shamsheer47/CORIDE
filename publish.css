@@ -1,0 +1,201 @@
+.logo{
+    height:60px;
+    width: 60px;
+    left:20px;
+    top:25px;
+    position: absolute;
+    border-radius: 40px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.coride{
+    width: 169px; 
+    height: 43px; 
+    left: 98px; 
+    top: 40px; 
+    position: absolute; 
+    font-size: 26px; 
+    font-family: Roboto Serif; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    color: black;
+}
+.home{
+    width: 169px; 
+    height: 43px; 
+    left: 470px; 
+    top: 30px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Roboto Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    border-radius: 20px;
+    background-color: #120A29;
+    border-color: white;
+    border-width: 0px;
+
+}
+.aboutus{
+    width: 169px; 
+    height: 43px; 
+    left: 656px; 
+    top: 30px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Roboto Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    border-radius: 20px;
+    background-color: #120A29;
+    border-color: white;
+    border-width: 0px;
+}
+.service{
+    width: 169px; 
+    height: 43px; 
+    left: 839px; 
+    top: 30px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Roboto Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    border-radius: 20px;
+    background-color: #120A29;
+    border-color: white;
+    border-width: 0px;
+}
+.profile{
+    width: 169px; 
+    height: 43px; 
+    left: 1023px; 
+    top: 30px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Roboto Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    border-radius: 20px;
+    background-color: #120A29;
+    border-color: white;
+    border-width: 0px;
+}
+.login{
+    width: 200px; 
+    height: 43px;
+    left: 1301px; 
+    top: 30px;
+    background-color:#FF5737;
+    color: white; 
+    font-size: 22px; 
+    font-family: Roboto Serif; 
+    font-weight: 600; 
+    word-wrap: break-word;
+    position: absolute;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 0px;
+}
+body{
+    background-image: url("publish a ride.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+.ride{
+    padding-left: 107px; 
+    padding-right: 107px; 
+    padding-top: 46px; 
+    padding-bottom: 46px; 
+    left: 420px; 
+    top: 170px; 
+    position: absolute;
+    width: 500px; 
+    height: 350px; 
+    background: linear-gradient(180deg, #FF5737 0%, rgba(129.54, 120.27, 156.20, 0.35) 86%, rgba(188.56, 178.62, 217.16, 0) 100%); 
+    box-shadow: 10px 10px 20px rgba(43.88, 64.94, 175.53, 0.50); 
+    border-radius: 50px;
+    font-size: 40px;
+    font-family: Roboto Serif;
+    font-weight: 200;
+    word-wrap: break-word;
+}
+.vehicletype{
+    width: 270px;
+    height: 50px;
+    position: absolute;
+    top: 30px;
+    left: 240px;
+    border-radius:20px;
+    border-width:0px;
+    font-size: 30px;
+    color: grey;
+    font-family: Roboto Serif;
+    font-weight: 200;
+}
+.seats{
+    position: absolute;
+    top: 100px;
+    left: 240px;
+    width: 270px;
+    height: 50px;
+    border-radius: 20px;
+    border-width: 0px;
+    color: grey;
+    font-size: 30px;
+    font-family: Roboto Serif;
+    font-weight: 200;
+    word-wrap: break-word;
+
+}
+.startpoint{
+    position: absolute;
+    top: 170px;
+    left: 240px;
+    width: 270px;
+    height: 50px;
+    border-radius: 20px;
+    border-width: 0px;
+    color: grey;
+    font-size: 30px;
+    font-family: Roboto Serif;
+    font-weight: 200;
+    word-wrap: break-word;
+
+}
+.destination{
+    position: absolute;
+    top: 250px;
+    left: 240px;
+    width: 270px;
+    height: 50px;
+    border-radius: 20px;
+    border-width: 0px;
+    color: grey;
+    font-size: 30px;
+    font-family: Roboto Serif;
+    font-weight: 200;
+    word-wrap: break-word;
+}
+.publish{
+    width: 200px;
+    height: 45px;
+    background-color:#FF5737;
+    border-radius: 20px;
+    position: absolute;
+    top: 350px;
+    left: 270px;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 32px;
+    font-family: Roboto Serif;
+    font-weight: 200;
+    word-wrap: break-word;
+    border-width: 0px;
+}
